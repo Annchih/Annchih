@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-### Skills:
+### Learn:
 <p align="left">
   <img src="https://skillicons.dev/icons?i=python,django,fastapi,html,css,postgres" />
 </p>
