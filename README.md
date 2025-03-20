@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 &nbsp;<div align="center">
-  [![YandexMusic](https://novatorem.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/omnitenebris)
+  [![YandexMusic](https://music.yandex.ru/album/12670893/track/73168884)
 </div>
 
 &nbsp;<div align="center">
