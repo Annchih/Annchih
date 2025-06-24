@@ -1,6 +1,6 @@
 <div align="center">
     <img src="https://i.pinimg.com/736x/72/96/59/72965937f4c169457937567a960c145c.jpg" width="25%" align="right" />
-   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=F1E05A&center=true&vCenter=true&width=800&lines=Hello%2C+I'm+Annchih!;Welcome+to+my+GitHub+💻" />
+<img src="https://readme-typing-svg.demolab.com?font=Ubuntu&size=25&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Testing...;Hello+hello+I+am+Annchih%F0%9F%92%99" />
     <br><br>
 </div>
 
