@@ -8,7 +8,7 @@
 
 ### Learn:
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,django,fastapi,html,css,postgres" />
+  <img src="https://skillicons.dev/icons?i=python,django,html,css,postgres" />
 </p>
 
 
